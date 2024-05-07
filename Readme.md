@@ -35,7 +35,7 @@ The code provided here illustrates the following concepts of FastAPI:
    Deletes a student from the database by their ID.
 
 * ### Screenshots :
-<img src="Fastapi-ss1" width="500" alt="Screenshot-1">  <img src="Fastapi-ss2" width="500" alt="Screenshot-2">
+<img src="Fastapi-ss1.png" width="500" alt="Screenshot-1">  <img src="Fastapi-ss2.png" width="500" alt="Screenshot-2">
 
 ## 💻Usage
 
