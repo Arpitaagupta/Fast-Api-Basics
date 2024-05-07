@@ -39,11 +39,24 @@ The code provided here illustrates the following concepts of FastAPI:
 
 ## 💻Usage
 
-1. Clone this repository.
+1. Clone this repository
+    ```
+    git clone https://github.com/Arpitaagupta/Fast-Api-Basics.git
+    ```
 2. Install dependencies 
-    *  `python -m pip install fastapi`
-    *  `pip install unicorn`.
-3. Run the FastAPI server using `uvicorn main:app --reload`.
+    ```
+    python -m pip install fastapi
+    ```
+
+    ```
+    pip install unicorn
+    ```
+
+3. Run the FastAPI server using 
+```
+uvicorn myapi:app --reload
+```
+
 4. Access the API endpoints using a tool like Postman or curl.
 
 
