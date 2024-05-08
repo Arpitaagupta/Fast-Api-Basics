@@ -34,7 +34,7 @@ The code provided here illustrates the following concepts of FastAPI:
 ### 5. `/delete/student/{student_id}` (DELETE)
    Deletes a student from the database by their ID.
 
-* ### Screenshots :
+## 📸 Screenshots :
 <img src="Fastapi-ss1.png" width="500" alt="Screenshot-1">  <img src="Fastapi-ss2.png" width="500" alt="Screenshot-2">
 
 ## 💻Usage
@@ -53,9 +53,9 @@ The code provided here illustrates the following concepts of FastAPI:
     ```
 
 3. Run the FastAPI server using 
-```
-uvicorn myapi:app --reload
-```
+   ```
+   uvicorn myapi:app --reload
+   ```
 
 4. Access the API endpoints using a tool like Postman or curl.
 
